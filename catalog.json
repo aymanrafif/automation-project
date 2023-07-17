@@ -1,0 +1,36 @@
+[
+    {
+      "source": "book",
+      "title": "Negeri 5 Menara",
+      "subject": "Ini subject Negeri 5 Menara",
+      "upc": "002256",
+      "issbn": "18865",
+      "authors": "Anto",
+      "dds_number": "3215687"
+    },
+    {
+      "source": "magazine",
+      "title": "Media Global",
+      "subject": "Ini subject Media Global",
+      "upc": "00336668",
+      "volume": "Volume 1",
+      "issue": "Issue 3215688"
+    },
+    {
+      "source": "magazine",
+      "title": "Media Detik",
+      "subject": "Ini subject Media Detik",
+      "upc": "000035",
+      "volume": "Volume 9",
+      "issue": "Issue 3218888"
+    },
+    {
+      "source": "magazine",
+      "title": "Media MNC",
+      "subject": "Ini subject Media MNC",
+      "upc": "000996",
+      "volume": "Volume 69",
+      "issue": "Issue 1996665"
+    }
+  ]
+  
